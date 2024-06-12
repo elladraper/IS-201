@@ -1,0 +1,54 @@
+img {
+    width: 200px;
+}
+
+
+body{
+    background-color:beige;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size: 1em;
+    text-align: center;
+    /* Make room for footer  */
+    padding-bottom: 100px;
+}
+
+
+.orderedlist {
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    width: 170px
+    
+    
+}
+
+
+.tableau{
+    position:relative; margin: 0 auto;
+    max-width:800px;
+}
+
+
+.linktoresume{
+    text-align: center;
+    color:black;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+footer {
+    border: 3px solid black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+    box-shadow: 0- 2px 5px rgba(0,0,0,0.1);
+
+
+}
+
+
+
